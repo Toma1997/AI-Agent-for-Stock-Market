@@ -1,2 +1,2 @@
 # AI-Agent-for-Stock-Market
-Simple AI Agent which use architecture of LSTM Neural Network to predict Stock Market prices.
+Simple program which use architecture of LSTM Neural Network to predict Bitcoin closing prices.
